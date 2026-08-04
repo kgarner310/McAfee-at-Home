@@ -1,11 +1,5 @@
 FROM clamav/clamav:latest
 
-RUN apk add --no-cache \
-    python3 py3-pip \
-    && pip3 install python-clamd
-
-COPY antivirus/ /app/
-
 EXPOSE 3310/tcp
 
 CMD ["clamd"]
