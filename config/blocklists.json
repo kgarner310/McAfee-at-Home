@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Ad Serving Domains",
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/adservers.txt",
+    "enabled": true,
+    "domains": [
+      "doubleclick.net",
+      "adwords.google.com",
+      "googlesyndication.com",
+      "pagead2.googlesyndication.com",
+      "ads.google.com",
+      "mads.amazon.com",
+      "amazon-adsystem.com"
+    ]
+  },
+  {
+    "name": "Malware Domains",
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/malware.txt",
+    "enabled": true,
+    "domains": [
+      "malware.example.com",
+      "phishing.example.com",
+      "trojan.example.com"
+    ]
+  },
+  {
+    "name": "Tracking Domains",
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts",
+    "enabled": true,
+    "domains": [
+      "google-analytics.com",
+      "analytics.google.com",
+      "googletagmanager.com",
+      "facebook.com",
+      "track.hubspot.com"
+    ]
+  },
+  {
+    "name": "Phishing Sites",
+    "url": "https://phishing.army/download/phishing_army_blocklist.txt",
+    "enabled": true,
+    "domains": [
+      "paypal-verify.com",
+      "amazon-security-verify.com",
+      "apple-id-verify.com"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+# McAfee at Home Whitelist
+# Add domains here that should never be blocked
+# One domain per line
+
+# Work/Business
+office365.com
+microsoft.com
+outlook.com
+teams.microsoft.com
+
+# Cloud Services
+google.com
+gmail.com
+drive.google.com
+github.com
+
+# Banking/Finance
+chase.com
+bankofamerica.com
+paypal.com
+
+# Streaming
+netflix.com
+youtube.com
+amazon.com
+hulu.com
+disneyplus.com
+
+# Social Media
+facebook.com
+twitter.com
+instagram.com
+linkedin.com
+
+# Shopping
+ebay.com
+walmart.com
+target.com
+
+# Add your trusted domains below
